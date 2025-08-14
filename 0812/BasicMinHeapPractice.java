@@ -77,6 +77,6 @@ public class BasicMinHeapPractice {
         while (!minHeap.isEmpty()) {
             System.out.print(minHeap.extractMin() + " ");
         }
-        // 預期輸出: 5 8 10 15 20 25
+        
     }
 }
